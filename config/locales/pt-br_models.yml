@@ -1,0 +1,11 @@
+"pt-BR":
+    activerecord:
+    models:
+        courses: "Cursos"
+    attributes:
+        courses:
+            id: "Identificador"
+            name: "Nome"
+            description: "Descrição"
+            created_at: "Data de Criação"
+            
